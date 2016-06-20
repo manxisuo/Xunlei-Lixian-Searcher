@@ -1,0 +1,12 @@
+#search_box {
+    height: 20px;
+    margin-top: 5px;
+}
+
+#search_btn, #index_btn, #clear_btn {
+    height: 22px;
+    margin-top: 5px;
+    margin-left: 2px;
+    border-radius: 2px;
+    padding: 0px 8px;
+}
